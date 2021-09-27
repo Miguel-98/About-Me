@@ -1,6 +1,6 @@
 # About Me
 
-My name is Miguel Amaral and I am going to graduate on December, 2021, with a Bachelor of Science degree in Business Analytics at Florida Polytechnic University with a Magna Cum Laude honor (GPA : 3.8). My eagerness to successfully deliver a high-quality service, my enthusiasm for professional development, and my excellent communication skills are some of my best qualities. I am looking for a entry-level position where I can fully utilize my analytical skills and explore my professional potential.
+My name is Miguel Amaral, and I am going to graduate in December, 2021, with a Bachelor of Science degree in Business Analytics at Florida Polytechnic University with a Magna Cum Laude honor (GPA : 3.8). My eagerness to successfully deliver a high-quality service, my enthusiasm for professional development, and my excellent communication skills are some of my best qualities. I am looking for a entry-level position where I can fully utilize my analytical skills and explore my professional potential.
 
 
 ### Certification
